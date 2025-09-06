@@ -4,15 +4,17 @@
 </p>
 
 <h1>Demo Aplikasi</h1>
-<img src="https://raw.githubusercontent.com/InstaCodex/Susu-Murni-Nasional/refs/heads/main/img/0.png" alt="Profile Image" width="100%">
-<img src="https://raw.githubusercontent.com/InstaCodex/Susu-Murni-Nasional/refs/heads/main/img/Screenshot%202025-05-31%20183730.png" alt="Profile Image" width="100%">
-<img src="https://raw.githubusercontent.com/InstaCodex/Susu-Murni-Nasional/refs/heads/main/img/2.png" alt="Profile Image" width="100%">
-<img src="https://raw.githubusercontent.com/InstaCodex/Susu-Murni-Nasional/refs/heads/main/img/3.png" alt="Profile Image" width="100%">
-<img src="https://raw.githubusercontent.com/InstaCodex/Susu-Murni-Nasional/refs/heads/main/img/4.png" alt="Profile Image" width="100%">
-<img src="https://raw.githubusercontent.com/InstaCodex/Susu-Murni-Nasional/refs/heads/main/img/5.png" alt="Profile Image" width="100%">
-<img src="https://raw.githubusercontent.com/InstaCodex/Susu-Murni-Nasional/refs/heads/main/img/6.png" alt="Profile Image" width="100%">
-<img src="https://raw.githubusercontent.com/InstaCodex/Susu-Murni-Nasional/refs/heads/main/img/7.png" alt="Profile Image" width="100%">
-<img src="https://raw.githubusercontent.com/InstaCodex/Susu-Murni-Nasional/refs/heads/main/img/database.png" alt="Profile Image" width="100%">
+<img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/refs/heads/main/Assets/front-1.png" alt="Profile Image" width="100%">
+<img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/refs/heads/main/Assets/front-2.png" alt="Profile Image" width="100%">
+<img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/refs/heads/main/Assets/front-3.png" alt="Profile Image" width="100%">
+<img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/refs/heads/main/Assets/front-4.png" alt="Profile Image" width="100%">
+<img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/refs/heads/main/Assets/front-5.png" alt="Profile Image" width="100%">
+<img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/refs/heads/main/Assets/back-1.png" alt="Profile Image" width="100%">
+<img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/refs/heads/main/Assets/back-2.png" alt="Profile Image" width="100%">
+<img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/refs/heads/main/Assets/back-3.png" alt="Profile Image" width="100%">
+<img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/refs/heads/main/Assets/back-4.png" alt="Profile Image" width="100%">
+<img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/refs/heads/main/Assets/back-5.png" alt="Profile Image" width="100%">
+
 
 
 
