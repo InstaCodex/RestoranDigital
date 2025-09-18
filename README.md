@@ -151,7 +151,7 @@ Semua endpoint melalui `api.php?action=...` dan mengembalikan JSON.
 
 ## 🚀 Jalankan Lokal (XAMPP)
 
-1. Salin folder ke `C:/xampp/htdocs/produk`.
+1. Salin folder ke `C:/xampp/htdocs/produk`
 2. Start Apache + MySQL.
 3. Buka `http://localhost/produk/setup_database.php` → pastikan sukses → hapus file setup.
 4. Buka `http://localhost/produk/index.php` (pelanggan) atau `http://localhost/produk/admin.php` (admin).
